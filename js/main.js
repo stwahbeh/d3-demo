@@ -29,7 +29,7 @@ $(function() {
 	// Write a function to set your scales
 	var setScales = function() {
 		// xScale
-		
+		var min = d3.min(data, function(d)(return d.le_1960)
 
 		// yScale		
 	}
